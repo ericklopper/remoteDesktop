@@ -3,7 +3,7 @@
 DOMAIN=Domain
 USER=UserName
 PASS=Password
-CONN=ConnectionNameOrIP
+CONN=ConnNameOrIP
 
 read -p 'Please enter your user name: ' USER
 read -p 'Please enter the domain: ' DOMAIN
